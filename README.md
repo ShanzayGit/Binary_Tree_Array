@@ -27,9 +27,10 @@ Binary_Tree_Array/
 
 ### 🔹 On Linux/Mac (g++)
 Since the implementation is header-only, you just need a driver file:
-
+```
 g++ main.cpp -o binary_tree_app
 ./binary_tree_app
+```
 
 ## 🧩 Example Usage
 
